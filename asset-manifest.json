@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2080229c.css",
+    "main.js": "/static/js/main.74427f79.js",
+    "static/media/descricao.m4a": "/static/media/descricao.1f691dc490bf5fe76d5c.m4a",
+    "static/media/conheca.m4a": "/static/media/conheca.f13c2b7725c334810356.m4a",
+    "static/media/preparacao.m4a": "/static/media/preparacao.443edf0af260a9df6eee.m4a",
+    "static/media/dois.m4a": "/static/media/dois.c6609ae1bac9d2cf904b.m4a",
+    "static/media/lista.m4a": "/static/media/lista.c6609ae1bac9d2cf904b.m4a",
+    "static/media/tabela.m4a": "/static/media/tabela.780fb4bb083aae366fe1.m4a",
+    "static/media/escolha.m4a": "/static/media/escolha.810f8e08bd6e1ff8931a.m4a",
+    "static/media/preferido.m4a": "/static/media/preferido.7b3a55e79ed8855e5b65.m4a",
+    "static/media/minecraft.m4a": "/static/media/minecraft.a5e5bcf65ccf05424218.m4a",
+    "static/media/otimo.m4a": "/static/media/otimo.7c59814fba26b18234c9.m4a",
+    "static/media/idade.m4a": "/static/media/idade.00b575dbe2e8e5e45045.m4a",
+    "static/media/nome.m4a": "/static/media/nome.809558d6c35072424600.m4a",
+    "static/media/bola_futebol.m4a": "/static/media/bola_futebol.318c04ddf532fff201ec.m4a",
+    "static/media/slime.m4a": "/static/media/slime.a0130e108fde1de76ff7.m4a",
+    "static/media/moedas.m4a": "/static/media/moedas.ea2ebfee53c8b1e5eb07.m4a",
+    "static/media/youtube.m4a": "/static/media/youtube.d448069878ebf8430e3d.m4a",
+    "static/media/batman.gif": "/static/media/batman.969413ef311b2e816a96.gif",
+    "static/media/batman.m4a": "/static/media/batman.1ef57bef2840d81ec19f.m4a",
+    "static/media/pintar.m4a": "/static/media/pintar.4caceb53988c0e6eb2f0.m4a",
+    "static/media/caminhao.m4a": "/static/media/caminhao.28423861470933ffb3fb.m4a",
+    "static/media/bola_futebol.gif": "/static/media/bola_futebol.56150ea4d839c4218601.gif",
+    "static/media/moedas.gif": "/static/media/moedas.1eb685b2d49e9d7c0b05.gif",
+    "static/media/minecraft.gif": "/static/media/minecraft.1f1ab4f07a299668c6fa.gif",
+    "static/media/youtube.gif": "/static/media/youtube.7c3048a53ad982c7d469.gif",
+    "static/media/pintar.gif": "/static/media/pintar.4db7f60ed9cdbcb97d45.gif",
+    "static/media/caminhao.gif": "/static/media/caminhao.643b2d3e8af78c70c769.gif",
+    "static/media/slime.png": "/static/media/slime.93bd5ccde1371585fe45.png",
+    "index.html": "/index.html",
+    "main.2080229c.css.map": "/static/css/main.2080229c.css.map",
+    "main.74427f79.js.map": "/static/js/main.74427f79.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2080229c.css",
+    "static/js/main.74427f79.js"
+  ]
+}
