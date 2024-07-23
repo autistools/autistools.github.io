@@ -1,7 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.2080229c.css",
-    "main.js": "/static/js/main.f10dbf4d.js",
+    "main.css": "/static/css/main.44ae89c0.css",
+    "main.js": "/static/js/main.c439904a.js",
+    "static/media/seja-bem-vindo.m4a": "/static/media/seja-bem-vindo.8fdf32f4530df12ba569.m4a",
     "static/media/descricao.m4a": "/static/media/descricao.1f691dc490bf5fe76d5c.m4a",
     "static/media/conheca.m4a": "/static/media/conheca.f13c2b7725c334810356.m4a",
     "static/media/preparacao.m4a": "/static/media/preparacao.443edf0af260a9df6eee.m4a",
@@ -10,7 +11,7 @@
     "static/media/tabela.m4a": "/static/media/tabela.780fb4bb083aae366fe1.m4a",
     "static/media/escolha.m4a": "/static/media/escolha.810f8e08bd6e1ff8931a.m4a",
     "static/media/preferido.m4a": "/static/media/preferido.7b3a55e79ed8855e5b65.m4a",
-    "static/media/minecraft.m4a": "/static/media/minecraft.a5e5bcf65ccf05424218.m4a",
+    "static/media/minecraft.m4a": "/static/media/minecraft.7b493b487f78ea5ea83e.m4a",
     "static/media/otimo.m4a": "/static/media/otimo.7c59814fba26b18234c9.m4a",
     "static/media/idade.m4a": "/static/media/idade.00b575dbe2e8e5e45045.m4a",
     "static/media/nome.m4a": "/static/media/nome.809558d6c35072424600.m4a",
@@ -30,11 +31,11 @@
     "static/media/caminhao.gif": "/static/media/caminhao.643b2d3e8af78c70c769.gif",
     "static/media/slime.png": "/static/media/slime.93bd5ccde1371585fe45.png",
     "index.html": "/index.html",
-    "main.2080229c.css.map": "/static/css/main.2080229c.css.map",
-    "main.f10dbf4d.js.map": "/static/js/main.f10dbf4d.js.map"
+    "main.44ae89c0.css.map": "/static/css/main.44ae89c0.css.map",
+    "main.c439904a.js.map": "/static/js/main.c439904a.js.map"
   },
   "entrypoints": [
-    "static/css/main.2080229c.css",
-    "static/js/main.f10dbf4d.js"
+    "static/css/main.44ae89c0.css",
+    "static/js/main.c439904a.js"
   ]
 }
